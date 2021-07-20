@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Feed the bunny-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proj-29"
+	}
+}
